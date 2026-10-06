@@ -95,6 +95,20 @@
         {
           "blend-mode" : "normal",
           "fill" : "automatic",
+          "hidden" : false,
+          "image-name" : "Dollar.png",
+          "name" : "Dollar",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              240,
+              235
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "fill" : "automatic",
           "glass" : false,
           "hidden" : false,
           "image-name" : "Ghostty.png",
